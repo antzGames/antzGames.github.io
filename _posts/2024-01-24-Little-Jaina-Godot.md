@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Little Jaina - PS Game Jam 14"
+description: "My first Godot game jam submission"
+tags: Game-Jams
+---
+
 # Little Jaina
 My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) with over 7800 participants, and over 1400 game entries.
 
