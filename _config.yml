@@ -32,7 +32,6 @@ plugins:
 
 header_pages:
   - archive.md
-  - "https://antzgames.itch.io"
 
 home_post_limit: 5
 
