@@ -33,6 +33,8 @@ plugins:
 header_pages:
   - archive.md
 
+home_post_limit: 5
+
 titles_from_headings:
   strip_title: true
   collections: true
