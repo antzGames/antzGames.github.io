@@ -1,5 +1,5 @@
 # Little Jaina
-My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) with over 7800 participants.
+My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) with over 7800 participants, and over 1400 game entries.
 
 The theme of the game jam was: **It’s Spreading**
 
