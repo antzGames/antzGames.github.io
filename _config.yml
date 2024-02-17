@@ -30,6 +30,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - archive.md
+
 titles_from_headings:
   strip_title: true
   collections: true
