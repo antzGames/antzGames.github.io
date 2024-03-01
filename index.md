@@ -7,17 +7,17 @@ Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgam
 # Recent Posts
 
  {% for post in site.posts %}
-  <article>
-    <h1 class="post-title p-name" itemprop="name headline">
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <h2 class="post-title p-name" itemprop="name headline">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
     <p class="post-meta">
     <!--<time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>-->
         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {{ post.date | date: date_format }}
       </time>
     </p>
     <div class="share-links">
