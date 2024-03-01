@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Shotgun Wedding"
-description: "My libGDX Jam 24 Entry: Shotgun Wedding"
+description: "Shotgun Wedding: libGDX Game JAM #24 Entry"
 tags: Game-Jams
 ---
 
-# libGDX Game JAM #24 Entry: Shotgun Wedding
+# Shotgun Wedding: libGDX Game JAM #24 Entry 
 
 I started late but managed to put something together.  This is a good example that sometimes using physics does not make for good gameplay.
 
