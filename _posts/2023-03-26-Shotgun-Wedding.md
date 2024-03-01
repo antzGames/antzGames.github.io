@@ -7,7 +7,11 @@ tags: Game-Jams
 
 # libGDX Game JAM #24 Entry: Shotgun Wedding
 
-I started late but managed to put something together.
+I started late but managed to put something together.  This is a good example that sometimes using physics does not make for good gameplay.
+
+When the robot jumps platforms, it is commited.  You cannot change directions or velocity like other platforms games allow you to do. This was the feedback I got from a few players.  
+
+So in real life, if you jump forward, can you change direction mid jump, like go backwards?
 
 You can play Shotgun Wedding in your browser at: 
 
