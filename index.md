@@ -14,9 +14,16 @@ Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgam
       </a>
     </h1>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <p>
+      &nbsp;<BR>
+    </p>
     {{ post.content }}
   </article>
-   
-  <HR>
-   
+  <p>
+   &nbsp;<BR>
+   <HR>
+   &nbsp;<BR>
+  </p> 
+
+      
 {% endfor %}
