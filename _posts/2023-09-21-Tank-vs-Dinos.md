@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Tank vs. Dinos"
-description: "My libGDX Jam #26 Entry: Tank vs. Dinos"
+description: "Tank vs. Dinos: My libGDX Jam #26 Entry"
 tags: Game-Jams
 ---
 
-# My libGDX Jam 26 Entry: Tank vs. Dinos
+# Tank vs. Dinos: My libGDX Jam #26 Entry
 
 ![image](https://github.com/antzGames/antzGames.github.io/assets/10563814/4cd9e313-e828-43b3-9ba9-7bedab79eae1)
 
