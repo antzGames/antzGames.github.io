@@ -16,6 +16,10 @@ You can download the game at: [https://antzgames.itch.io/little-mage](https://an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMByjEqwDrU?si=uqWRMyW6vBuav49s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![XVgeFh](https://github.com/antzGames/antzGames.github.io/assets/10563814/a865931e-36ac-4880-9358-6318b5b58b03)
+![FHSyZH](https://github.com/antzGames/antzGames.github.io/assets/10563814/51148cd2-c0a8-48df-8c81-69d8c73f69d1)
 
 ![HHrtKJ](https://github.com/antzGames/antzGames.github.io/assets/10563814/d57175cf-0ffc-47e0-8ac0-ca2717931ac5)
+
+![YT2GvH](https://github.com/antzGames/antzGames.github.io/assets/10563814/b280f717-5761-4e7e-b618-4fda35c8cbb0)
+
+
