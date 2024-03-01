@@ -12,7 +12,7 @@ The theme of the game jam was: **It’s Spreading**
 
 You can play the game at: [https://antzgames.itch.io/little-mage](https://antzgames.itch.io/little-mage)
 
-<iframe frameborder="0" src="https://itch.io/embed/2473969?dark=true" width="552" height="167"><a href="https://antzgames.itch.io/little-mage">Little Jaina by Antz</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2473969?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/little-mage">Little Jaina by Antz</a></iframe>
 
 ![XVgeFh](https://github.com/antzGames/antzGames.github.io/assets/10563814/a865931e-36ac-4880-9358-6318b5b58b03)
 
