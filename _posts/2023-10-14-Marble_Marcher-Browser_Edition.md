@@ -13,7 +13,7 @@ Best times are stored via the Game Jolt API.
 
 ## Ported to Java utilizing libGDX
 
-The C++ code has been migrated to Java using the libGDX game framework.  All linear algebra math converted to libGDX's math classes (i.e. no more Eigen linear algebra library needed).  This code base can support iOS, Android, HTML and any desktop (Linux/Windows).  GitHub repo link coming soon.
+The C++ code has been migrated to Java using the libGDX game framework.  All linear algebra math converted to libGDX's math classes (i.e. no more Eigen linear algebra library needed).  This code base can support iOS, Android, HTML and any desktop (Linux/Windows).
 
 Levels unlocks are saved (persisted) via local browser storage.
 
