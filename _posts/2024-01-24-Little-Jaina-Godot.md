@@ -6,11 +6,11 @@ tags: Game-Jams
 ---
 
 # Little Jaina
-My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) with over 7800 participants, and over 1400 game entries.
+My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) with over 7800 participants, and 1400 game entries.  This is my first game jam entry using Godot 4.2.1 game engine.
 
 The theme of the game jam was: **It’s Spreading**
 
-You can play the game at: [https://antzgames.itch.io/little-mage](https://antzgames.itch.io/little-mage)
+You can download the game at: [https://antzgames.itch.io/little-mage](https://antzgames.itch.io/little-mage)
 
 <iframe frameborder="0" src="https://itch.io/embed/2473969?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/little-mage">Little Jaina by Antz</a></iframe>
 
