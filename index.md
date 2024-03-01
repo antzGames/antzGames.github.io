@@ -4,6 +4,8 @@
 
 Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgames.itch.io/)
 
+# Posts
+
  {% for post in site.posts %}
   <article>
     <h1>
@@ -14,5 +16,7 @@ Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgam
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     {{ post.content }}
   </article>
+   
   <HR>
+   
 {% endfor %}
