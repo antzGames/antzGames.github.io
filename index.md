@@ -4,7 +4,7 @@
 
 Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgames.itch.io/)
 
-# Recent Posts
+_______________
 
  {% for post in site.posts %}
   <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
