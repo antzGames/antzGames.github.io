@@ -18,13 +18,7 @@ youtube_username: "@AntzGames"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: minima
-remote_theme: jekyll/minima
-#remote_theme: lewismiddleton/cayman-dark
-
-minima:
-  skin: dark
-
+theme: minima
 rss: rss
 
 kramdown:
@@ -34,7 +28,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 header_pages:
   - archive.md
