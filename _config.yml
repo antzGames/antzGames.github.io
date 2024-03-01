@@ -19,8 +19,8 @@ youtube_username: "@AntzGames"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: minima
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: lewismiddleton/cayman-dark
+remote_theme: pages-themes/minima@v0.3.0
+#remote_theme: lewismiddleton/cayman-dark
 
 minima:
   skin: dark
