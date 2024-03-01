@@ -23,9 +23,6 @@ Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgam
     <div class="share-links">
       {% include sharelinks.html %}
     </div>
-    <p>
-      &nbsp;<BR>
-    </p>
     {{ post.content }}
   </article>
   <p>
