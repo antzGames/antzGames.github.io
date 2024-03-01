@@ -19,7 +19,7 @@ You can play Shotgun Wedding in your browser at:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78s_r5z1eqw?si=qFeqVfYoWr2GZYyL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![image](https://github.com/antzGames/antzGames.github.io/assets/10563814/7bb00086-de9d-436f-a683-7bbb6d8b50cc)
+![SlRYHM](https://github.com/antzGames/antzGames.github.io/assets/10563814/544ec7fe-5407-4bfd-b3d5-69cd30656900)
 
 ![T8f5tt](https://github.com/antzGames/antzGames.github.io/assets/10563814/e05c42c5-d369-4b4d-8f77-b7856ca7cf51)
 
