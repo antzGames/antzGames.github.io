@@ -6,12 +6,13 @@ Play/explore my games and tools at: [https://antzgames.itch.io/](https://antzgam
 
  {% for post in site.posts %}
   <article>
-    <h2>
+    <h1>
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h2>
+    </h1>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     {{ post.content }}
   </article>
+  <HR>
 {% endfor %}
