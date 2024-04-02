@@ -23,8 +23,6 @@ Level 5 is survival mode.  Try to survive as long as possible.
 
 You get a free weapon upgrade on Level 3.
 
-<iframe frameborder="0" src="https://itch.io/embed/2602372?border_width=2"" width="554" height="169"><a href="https://antzgames.itch.io/underworld-survival">Underworld Survival by Antz</a></iframe>
-
 ## Controls
 
 | A and S Keys| Rotate Left/Right |
@@ -61,4 +59,8 @@ Music by: PettyTheft: SoundCloud: https://soundcloud.com/ppettytheftt
 libGDX GameJolt API: https://github.com/raeleus/game-jolt-api
 
 ## Play online
+
+You can play online:
+
+<iframe frameborder="0" src="https://itch.io/embed/2602372?border_width=2" width="554" height="169"><a href="https://antzgames.itch.io/underworld-survival">Underworld Survival by Antz</a></iframe>
 
