@@ -6,6 +6,7 @@ tags: Game-Jams
 ---
 
 # Underworld Survival
+
 ![download4](https://github.com/antzGames/antzGames.github.io/assets/10563814/9ba3623a-701b-41a4-ab17-97595954ae9c)
 
 ![gj1](https://github.com/antzGames/antzGames.github.io/assets/10563814/e98b6b61-e03b-415f-bd66-184aa66d14e1)
@@ -57,6 +58,8 @@ Music by: PettyTheft: SoundCloud: https://soundcloud.com/ppettytheftt
 
 libGDX GameJolt API: https://github.com/raeleus/game-jolt-api
 
-## Play online at:
+## Play online
 
-<iframe frameborder="0" src="https://itch.io/embed/2602372" width="552" height="167"><a href="https://antzgames.itch.io/underworld-survival">Underworld Survival by Antz</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2602372?border_width=2"" width="554" height="169"><a href="https://antzgames.itch.io/underworld-survival">Underworld Survival by Antz</a></iframe>
+
