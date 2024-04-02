@@ -19,11 +19,11 @@ Only gdx-gltf supported GLB and GLTF files can be imported/exported.
 
 Here is the supported pipeline:
 
-Indexing
-Simplification
-Vertex cache optimization
-Overdraw optimization
-Vertex fetch optimization
+* Indexing
+* Simplification
+* Vertex cache optimization
+* Overdraw optimization
+* Vertex fetch optimization
 
 ## Why is this important?
 This will give the libGDX 3D community the ability to have Level of Detail (LoD) rendering and also provide improved frame per second (FPS) on their 3D games.
