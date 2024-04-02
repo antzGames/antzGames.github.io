@@ -24,7 +24,8 @@ Simplification
 Vertex cache optimization
 Overdraw optimization
 Vertex fetch optimization
-Why is this important?
+
+## Why is this important?
 This will give the libGDX 3D community the ability to have Level of Detail (LoD) rendering and also provide improved frame per second (FPS) on their 3D games.
 
 Initial testing has shown 10-50% rendering improvements on an un-simplified mesh that has been optimized.
@@ -33,7 +34,7 @@ The JNI interface to MeshOptimizer is provided via LWJGL.
 
 The Java jar file can be run on Windows and Linux , but you need Java 11+ installed.
 
-User Interface
+## User Interface
 
 ![download](https://github.com/antzGames/antzGames.github.io/assets/10563814/899beb29-f53e-4f01-ada5-3de13f08227f)
 
