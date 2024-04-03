@@ -19,26 +19,26 @@ Help the mage survive the Underworld.
 
 The first four levels are time trials, so your fastest time is saved.
 
-Level 5 is survival mode.  Try to survive as long as possible.
+**Level 5** is survival mode.  Try to survive as long as possible.
 
 You get a free weapon upgrade on Level 3.
 
 ## Controls
 
-| A and S Keys| Rotate Left/Right |
-| LEFT and RIGHT Cursor Keys | 	Rotate Left/Right | 
-| CTRL Key | Slow down rotation | 
+| **A** and **S** Keys | Rotate Left/Right |
+| **LEFT** and **RIGHT** Cursor Keys | 	Rotate Left/Right | 
+| **CTRL** Key | Slow down rotation | 
 | Right Mouse Button | Pause Menu
-| G Key	Shadow quality toggle. | Reduce shadow quality significantly, but will boost your FPS.  Only use if you are below 60 FPS.  
+| **G** Key	Shadow quality toggle. | Reduce shadow quality significantly, but will boost your FPS.  Only use if you are below 60 FPS.  
 
 ## High Scores
 Scores are saved via GameJolt API.  If you have a GameJolt userid, you can log in with your credentials, and earn trophies.  
 
-If you do not have a GameJolt userid, its ok, just login as GUEST and select a username. The game will remember it, so you only need to do this once.
+If you do not have a GameJolt userid, its ok, just login as **GUEST** and select a username. The game will remember it, so you only need to do this once.
 
 Your best scores are also saved to local browser storage. 
 
-You can clear out your guest name and local scores by pressing the L KEY from the main menu.
+You can clear out your guest name and local scores by pressing the **L** KEY from the main menu.
 
 ## Instancing
 This is a simple game, but its using instancing to draw 300 (plus 300 hidden) models on the screen.  Each individual instance has its location, rotation and scale controlled, while your GPU is doing very little work to render the scene.
@@ -47,7 +47,7 @@ Even on an old 2017 laptop with integrated graphics, I manage to get 27 FPS.
 
 Newer hardware should perform much better.
 
-If you have low FPS type the G Key at any time to reduce the shadow quality.  This should boost your FPS.
+If you have low FPS type the **G** Key at any time to reduce the shadow quality.  This should boost your FPS.
 
 Note: Your PC/Laptop needs to support OpenGL 4.1.
 
