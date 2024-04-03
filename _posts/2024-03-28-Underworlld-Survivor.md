@@ -15,13 +15,13 @@ tags: Game-Jams
 
 ![zK3pBh](https://github.com/antzGames/antzGames.github.io/assets/10563814/6c6538aa-9db9-4d54-b5ad-2ab73f20c3cb)
 
-Help the mage survive the Underworld.
+_Help the mage survive the Underworld._
 
 The first four levels are time trials, so your fastest time is saved.
 
 **Level 5** is survival mode.  Try to survive as long as possible.
 
-You get a free weapon upgrade on Level 3.
+You get a free weapon upgrade on **Level 3**.
 
 ## Controls
 
@@ -52,11 +52,11 @@ If you have low FPS type the **G** Key at any time to reduce the shadow quality.
 Note: Your PC/Laptop needs to support OpenGL 4.1.
 
 ## Credits
-Music by: PettyTheft: SoundCloud: https://soundcloud.com/ppettytheftt
+Music by: PettyTheft: SoundCloud: [https://soundcloud.com/ppettytheftt](https://soundcloud.com/ppettytheftt)
 
-3D models by KayKit: https://kaylousberg.itch.io/kaykit-adventurers
+3D models by KayKit: [https://kaylousberg.itch.io/kaykit-adventurers](https://kaylousberg.itch.io/kaykit-adventurers)
 
-libGDX GameJolt API: https://github.com/raeleus/game-jolt-api
+libGDX GameJolt API: [https://github.com/raeleus/game-jolt-api](https://github.com/raeleus/game-jolt-api)
 
 ## Play online
 
