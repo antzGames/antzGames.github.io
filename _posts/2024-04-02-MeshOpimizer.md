@@ -11,6 +11,8 @@ tags: Java-Port
 
 <iframe frameborder="0" src="https://itch.io/embed/2567177?border_width=2" width="554" height="169"><a href="https://antzgames.itch.io/libgdx-meshoptimizer">libGDX Mesh Optimizer Tool by Antz</a></iframe>
 
+https://youtu.be/Ne-lEDXHhys
+
 This is a tool to optimize your GLTF models for use in libGDX using the MeshOptimizer library.
 
 Simplification, mesh optimization and model import/export are feature complete.
