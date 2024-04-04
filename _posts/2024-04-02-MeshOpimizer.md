@@ -13,11 +13,11 @@ tags: Java-Port
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ne-lEDXHhys?si=nkvDscbYduR06PPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is a tool to optimize your GLTF models for use in libGDX using the MeshOptimizer library.
+This is a tool to optimize your GLTF models for use in libGDX using the [MeshOptimizer](https://meshoptimizer.org/) library.
 
 Simplification, mesh optimization and model import/export are feature complete.
 
-Only gdx-gltf supported GLB and GLTF files can be imported/exported.
+Only **gdx-gltf** supported **GLB** and **GLTF** files can be imported/exported.
 
 Here is the supported pipeline:
 
