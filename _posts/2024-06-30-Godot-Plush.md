@@ -9,3 +9,10 @@ tags: Godot
 
 I have completed development of the Godot version of Raid on Bungeling Bay 3D.  For the next 2 months I will be fixing bugs, performance tuning, and testing the Web, windows and Linux versions.
 
+https://youtu.be/ELhf7L6lNxo
+
+# Godot Plush Intro Screen
+
+The Godot Foundation released the Godot Robot Plush.  I found a 3D model of the plush and made a quick intro screen.
+
+https://youtu.be/cKUa8ogM1F0
