@@ -19,8 +19,8 @@ youtube_username: "@AntzGames"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-remote_theme: jekyll/minima
-#theme: minima
+#remote_theme: jekyll/minima
+theme: minima
 google_analytics: G-R5ZPM5JW9D
 
 # Anthony
