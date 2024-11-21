@@ -28,7 +28,3 @@ You can watch the entire video series using the following link:
 Below is a video on the side by side comparision between libGDX and Godot 4.3:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/si5DteH4v8c?si=XyRoHnXHq6FwIxla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-&nbsp;
-&nbsp;
