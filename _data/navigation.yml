@@ -7,5 +7,5 @@ main:
     url: /tags/
   - title: "History"
     url: /posts/    
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
