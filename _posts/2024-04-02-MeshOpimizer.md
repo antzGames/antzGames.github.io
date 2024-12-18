@@ -48,8 +48,8 @@ The Java jar file can be run on Windows and Linux , but you need Java 11+ instal
 
 ## User Interface
 
-![download](https://github.com/antzGames/antzGames.github.io/assets/10563814/899beb29-f53e-4f01-ada5-3de13f08227f)
+![download](https://img.itch.zone/aW1nLzE1NTY4MDkwLnBuZw==/original/RuiNzV.png)
 
 Here are the before and after optimization metrics:
 
-![OOUfua](https://github.com/antzGames/antzGames.github.io/assets/10563814/4398f057-e7c2-41f3-a8f4-b9217046a39b)
+![OOUfua](https://img.itch.zone/aW1nLzE1NDMyOTIyLnBuZw==/original/OOUfua.png)
