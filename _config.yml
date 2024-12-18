@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AntzGames
+subtitle: "Development and Technology Blog"
+logo: "/assets/images/antz_square.png"
 description: >- # this means to ignore newlines until "baseurl:"
   AntzGames development and technology blog on GitHub Pages.
 email: "Antz.Games@outlook.com"
@@ -117,7 +119,8 @@ defaults:
         image: /assets/images/banner1.png
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: true
       comments: true
       share: true
       related: true
