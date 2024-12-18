@@ -7,6 +7,7 @@ categories:
 tags:
   - VAT
   - 3D
+  - instancing
 header:
   teaser: /assets/images/skel.jpg 
 ---
