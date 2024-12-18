@@ -13,24 +13,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: AntzGames
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+email: "Antz.Games@outlook.com"
+twitter_username: "AntzGames"
+github_username: "AntzGames"
+youtube_username: "@AntzGames"
+
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-R5ZPM5JW9D"
+    anonymize_ip: false # default
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 10 # amount of posts to show
+#paginate_path: /page:num/
+paginate_path: /blog/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -58,34 +68,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "AntzGames"
+  avatar : "/assets/images/antz_512.png"
+  bio    : "My social media, GitHub repositories and itch.io links below."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-square-youtube"
+      url: "https://youtube.com/@AntzGames"
+    - label: "X/Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://twitter.com/@AntzGames"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/antzGames"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://antzgames.itch.io/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-square-youtube"
+      url: "https://youtube.com/@AntzGames"
+    - label: "X/Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://twitter.com/@AntzGames"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/antzGames"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://antzgames.itch.io/"
 
 defaults:
   # _posts
@@ -93,6 +106,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: /assets/images/banner1.png
       layout: single
       author_profile: true
       read_time: true
@@ -105,6 +120,8 @@ defaults:
       type: pages
     values:
       layout: single
+      header:
+        image: /assets/images/banner1.png      
       author_profile: true
 
 category_archive:
