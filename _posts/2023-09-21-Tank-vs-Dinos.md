@@ -24,6 +24,6 @@ You can play the game in your browser at:
 
 ![xkcBvl](/assets/images/dino1.gif)
 
-![NsGBWt](/assets/images/dino1.gif)
+![NsGBWt](/assets/images/dino2.gif)
 
-![rSRqTH](/assets/images/dino1.gif)
+![rSRqTH](/assets/images/dino3.gif)

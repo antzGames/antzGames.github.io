@@ -7,6 +7,7 @@ categories:
 tags:
   - 3D
   - physics
+ 
 ---
 I started late but managed to put something together.  This is a good example that sometimes using physics does not make for good gameplay.
 
@@ -20,8 +21,16 @@ You can play Shotgun Wedding in your browser at:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78s_r5z1eqw?si=qFeqVfYoWr2GZYyL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![SlRYHM](https://github.com/antzGames/antzGames.github.io/assets/10563814/544ec7fe-5407-4bfd-b3d5-69cd30656900)
+&nbsp;
 
-![T8f5tt](https://github.com/antzGames/antzGames.github.io/assets/10563814/e05c42c5-d369-4b4d-8f77-b7856ca7cf51)
+![d1](/assets/images/gun1.gif)
 
-![FsDIOQ](https://github.com/antzGames/antzGames.github.io/assets/10563814/ab0cdca4-fe69-43a1-b5dc-a29c069eadd1)
+![d2](/assets/images/gun2.gif)
+
+![d3](/assets/images/gun3.gif)
+
+![d4](/assets/images/gun4.gif)
+
+![d5](/assets/images/gun5.gif)
+
+![d6](/assets/images/gun6.gif)
