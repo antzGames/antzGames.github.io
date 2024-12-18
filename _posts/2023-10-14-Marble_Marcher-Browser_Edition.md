@@ -22,13 +22,13 @@ Levels unlocks are saved (persisted) via local browser storage.
 
 <iframe frameborder="0" src="https://itch.io/embed/2311404?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/marble-marcher-in-a-browser">Marble Marcher: Browser Edition by Antz</a></iframe>
 
-![AqPZlZ](https://github.com/antzGames/antzGames.github.io/assets/10563814/2b685d9f-b6ac-4683-b9fc-483501356618)
+![AqPZlZ](/assets/images/mm1.png)
 
-![fRIWoJ](https://github.com/antzGames/antzGames.github.io/assets/10563814/5aa5866a-bcd2-4f69-a6cf-3ea1db406c05)
+![fRIWoJ](/assets/images/mm2.png)
 
-![RznvxS](https://github.com/antzGames/antzGames.github.io/assets/10563814/a80df93c-d8d2-445e-b9c1-a5c64657adca)
+![RznvxS](/assets/images/mm3.png)
 
-![6HNEsH](https://github.com/antzGames/antzGames.github.io/assets/10563814/9aabd857-8ea9-494d-b8ba-72572a63ac0e)
+![6HNEsH](/assets/images/mm4.png)
 
 
 

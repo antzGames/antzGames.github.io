@@ -24,10 +24,13 @@ You can download the game at: [https://antzgames.itch.io/little-mage](https://an
 
 &nbsp;
 
-![FHSyZH](https://github.com/antzGames/antzGames.github.io/assets/10563814/51148cd2-c0a8-48df-8c81-69d8c73f69d1)
+![d1](/assets/images/jaina2.jpg)
 
-![HHrtKJ](https://github.com/antzGames/antzGames.github.io/assets/10563814/d57175cf-0ffc-47e0-8ac0-ca2717931ac5)
+![d4](/assets/images/jaina5.gif)
 
-![YT2GvH](https://github.com/antzGames/antzGames.github.io/assets/10563814/b280f717-5761-4e7e-b618-4fda35c8cbb0)
+![d2](/assets/images/jaina3.gif)
+
+![d3](/assets/images/jaina4.gif)
+
 
 

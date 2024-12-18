@@ -12,7 +12,7 @@ tags:
 ---
 # Tank vs. Dinos: My libGDX Jam #26 Entry
 
-![image](https://github.com/antzGames/antzGames.github.io/assets/10563814/4cd9e313-e828-43b3-9ba9-7bedab79eae1)
+![image](/assets/images/dino.png)
 
 Main objective for this JAM is to get 3D navigation mesh, pathfinding and crowd control working with libGDX.   Here is a video showing some pathfinding tests:
 
@@ -22,8 +22,8 @@ You can play the game in your browser at:
 
 <iframe frameborder="0" src="https://itch.io/embed/2275149?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/tank-vs-dinos">Tank vs. Dinos by Antz</a></iframe>
 
-![xkcBvl](https://github.com/antzGames/antzGames.github.io/assets/10563814/66aabd7c-69dd-420d-abda-7845ef4d2b1e)
+![xkcBvl](/assets/images/dino1.gif)
 
-![NsGBWt](https://github.com/antzGames/antzGames.github.io/assets/10563814/53da4f3b-0097-4e69-a40d-0384ab0df3bb)
+![NsGBWt](/assets/images/dino1.gif)
 
-![rSRqTH](https://github.com/antzGames/antzGames.github.io/assets/10563814/43f9447e-bc51-42da-9baa-4128273c5122)
+![rSRqTH](/assets/images/dino1.gif)
