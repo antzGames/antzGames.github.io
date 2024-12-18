@@ -10,13 +10,11 @@ tags:
 ---
 _Help the mage survive the Underworld._  This is a simple game, but its using instancing to draw hundreds of  models on the screen.  Each individual instance has its location, rotation and scale controlled, while your GPU is doing very little work to render the scene.
 
-![download4](https://github.com/antzGames/antzGames.github.io/assets/10563814/9ba3623a-701b-41a4-ab17-97595954ae9c)
+![dl1](/assets/images/uw1.png)
 
-![gj1](https://github.com/antzGames/antzGames.github.io/assets/10563814/e98b6b61-e03b-415f-bd66-184aa66d14e1)
+![dl2](/assets/images/uw2.gif)
 
-![1DC8yA](https://github.com/antzGames/antzGames.github.io/assets/10563814/7bde6572-44ed-4eed-a0b0-9ceb211efe1e)
-
-![zK3pBh](https://github.com/antzGames/antzGames.github.io/assets/10563814/6c6538aa-9db9-4d54-b5ad-2ab73f20c3cb)
+![dl2](/assets/images/uw2.gif)
 
 The first four levels are time trials, so your fastest time is saved.
 
