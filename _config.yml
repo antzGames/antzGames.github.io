@@ -30,6 +30,15 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+# Plugins
+repository: antzGames/antzGames.github.io
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
+
 analytics:
   provider: "google-gtag"
   google:
