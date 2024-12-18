@@ -13,7 +13,7 @@ header:
 ---
 I developed a tool to optimize your GLTF models for use in libGDX.  It uses the popular [MeshOptimizer](https://meshoptimizer.org/) library.  Simplification, mesh optimization and model import/export are feature complete.
 
-![image](https://github.com/antzGames/antzGames.github.io/assets/10563814/5bfaa4e8-e1cf-463d-979c-f33f17d602a7)
+![image](/assets/images/mesh.png)
 
 You can download the tool at:
 
