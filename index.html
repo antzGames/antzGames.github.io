@@ -3,6 +3,17 @@ layout: splash
 author_profile: false
 header:
   image: /assets/images/banner1.png
+feature_row_top:
+  - image_path: assets/images/mixamo.webp
+    alt: "From Mixamo to Godot: An Easier Approach"
+    title: "From Mixamo to Godot: An Easier Approach"
+    excerpt: "I created a video tutorial that explores the integration of Mixamo animations into the Godot game engine, focusing on the specific challenges users face especially with custom 3D character models. I tried using other Mixamo to Godot tutorials with a custom rigged characters which resulted in  poor results.  I made this tutorial and it uses a simplified approach.
+	
+	
+	This solution does not need Blender or any other tools other than Mixamo and Godot 4.3+."
+    url: "/godot/demo/tutorial/Mixamo/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 feature_row:
   - image_path: assets/images/vat.png
     alt: "Godot Vertex Animation Textures Plugin"
@@ -96,6 +107,8 @@ feature_row4:
     btn_label: "See All Posts"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="feature_row_top" type="left" %}
 
 {% include feature_row %}
 
