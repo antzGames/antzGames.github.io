@@ -14,6 +14,8 @@ I developed a tool that allows easy creation of LODs from your models with only 
 
 The tool allows you to save each LOD as a separate GLTF file, or embed the LOD meta data in a separate file.  This meta data file can be used in libGDX using a easy to use LOD engine demo project.
 
+![image](/assets/images/mesh.jpg)
+
 ## Quick Overview
 
 Models are automatically optimized and LODs are generated on import. The default configuration is good in most cases, so just click EXPORT and you are done.
@@ -35,8 +37,6 @@ If exporting using LOD meta data file, then you  can use the libGDX LOD example 
 - fully preview all LODs before exporting.
 - contains a built in animation player.
 - based on the industry standard [meshoptimizer](https://meshoptimizer.org/) library.
-
-![image](/assets/images/mesh.jpg)
 
 You can download the tool at:
 
