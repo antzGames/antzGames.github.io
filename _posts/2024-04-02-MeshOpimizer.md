@@ -1,19 +1,42 @@
 ---
-title: "libGDX MeshOptimizer Tool"
+title: "GLTF Level of Detail Generator"
 date: 2024-04-02T15:34:30-04:00
 categories:
-  - libGDX
-  - Tools and Plugins
+   - Tools and Plugins
 tags:
   - LoD
   - optimization
   - 3D
 header:
-  teaser: /assets/images/mesh.png
+  teaser: /assets/images/mesh.jpg
 ---
-I developed a tool to optimize your GLTF models for use in libGDX.  It uses the popular [MeshOptimizer](https://meshoptimizer.org/) library.  Simplification, mesh optimization and model import/export are feature complete.
+I developed a tools that allows easy creation of LODs from your models with only a few clicks.
 
-![image](/assets/images/mesh.png)
+The tool allows you to save each LOD as a separate GLTF file, or embed the LOD meta data in a separate file.  This meta data file can be used in libGDX using a easy to use LOD engine demo project.
+
+## Quick Overview
+
+Models are automatically optimized and LODs are generated on import. The default configuration is good in most cases, so just click EXPORT and you are done.
+You need to click GENERATE if you change any LOD  settings.  Zoom camera in/out to see LOD transitions by using camera buttons or WASD or CURSOR keys.
+Exporting LODs as separate GLTF files allows for your own custom LOD solution on any game engine.
+
+If exporting using LOD meta data file, then you  can use the libGDX LOD example project as a template.  GitHub repository: [https://github.com/antzGames/Level_Of_Detail_Demo](https://github.com/antzGames/Level_Of_Detail_Demo)
+
+## Features
+
+- auto mesh optimize on import.
+- auto LOD generation on import.
+- exports LODs as separate GLTF files with one click.
+- fully customizable LOD configuration:
+    - number of LODs can be 3 to 8 levels.
+    - configurable simplification factor.
+    - configurable target error.
+- can save LOD meta data into a separate file.
+- fully preview all LODs before exporting.
+- contains a built in animation player.
+- based on the industry standard [meshoptimizer](https://meshoptimizer.org/) library.
+
+![image](/assets/images/mesh.jpg)
 
 You can download the tool at:
 
@@ -23,33 +46,9 @@ You can download the tool at:
 
 Video explaining how to use the tool:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne-lEDXHhys?si=nkvDscbYduR06PPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jZFwxxa6vs?si=cnrT6UBXQkZpxmjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 &nbsp;
 
 Only **gdx-gltf** supported **GLB** and **GLTF** files can be imported/exported.
 
-Here is the supported pipeline:
-
-* Indexing
-* Simplification
-* Vertex cache optimization
-* Overdraw optimization
-* Vertex fetch optimization
-
-## Why is this important?
-This will give the libGDX 3D community the ability to have Level of Detail (LoD) rendering and also provide improved frame per second (FPS) on their 3D games.
-
-Initial testing has shown 10-50% rendering improvements on an un-simplified mesh that has been optimized.
-
-The JNI interface to MeshOptimizer is provided via LWJGL.
-
-The Java jar file can be run on Windows and Linux , but you need Java 11+ installed.
-
-## User Interface
-
-![download](https://img.itch.zone/aW1nLzE1NTY4MDkwLnBuZw==/original/RuiNzV.png)
-
-Here are the before and after optimization metrics:
-
-![OOUfua](https://img.itch.zone/aW1nLzE1NDMyOTIyLnBuZw==/original/OOUfua.png)
