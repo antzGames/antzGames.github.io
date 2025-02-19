@@ -10,7 +10,7 @@ tags:
 header:
   teaser: /assets/images/mesh.jpg
 ---
-I developed a tools that allows easy creation of LODs from your models with only a few clicks.
+I developed a tool that allows easy creation of LODs from your models with only a few clicks.
 
 The tool allows you to save each LOD as a separate GLTF file, or embed the LOD meta data in a separate file.  This meta data file can be used in libGDX using a easy to use LOD engine demo project.
 
