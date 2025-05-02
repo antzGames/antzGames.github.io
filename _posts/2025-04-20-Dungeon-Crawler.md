@@ -15,7 +15,7 @@ I had so much fun developing my game jam entry for the annual Dungeon Crawler Ga
 
 In one week I built:
 
-- an inventory component.
+- an inventory system.
 - a gear system.
 - skills tree.
 - spell bar.
