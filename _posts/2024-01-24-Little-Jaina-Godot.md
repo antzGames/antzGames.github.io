@@ -14,7 +14,7 @@ My entry in the [Pirate Software – Game Jam 14](https://itch.io/jam/pirate) wi
 
 The theme of the game jam was: **It’s Spreading**
 
-You can download the game at: [https://antzgames.itch.io/little-mage](https://antzgames.itch.io/little-mage)
+You can play thegame in your web browser at: [https://antzgames.itch.io/little-mage](https://antzgames.itch.io/little-mage)
 
 <iframe frameborder="0" src="https://itch.io/embed/2473969?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/little-mage">Little Jaina by Antz</a></iframe>
 
