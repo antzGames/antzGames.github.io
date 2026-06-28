@@ -5,7 +5,7 @@ categories:
   - Godot
   - demo
 tags:
-  - shaders
+  - shader
   - compute
   - 3D
 header:

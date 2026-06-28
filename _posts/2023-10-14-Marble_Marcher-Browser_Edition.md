@@ -7,7 +7,7 @@ tags:
   - 3D
   - ray-marching
   - fractals
-  - shaders
+  - shader
 ---
 
 Marble Marcher is entirely ray-marched (similar to ray-tracing) in real time and is played on the surface of evolving fractals.  The goal is to get your marble to the goal as quickly as possible.  There are 24 unique levels to master.
