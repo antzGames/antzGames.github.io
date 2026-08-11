@@ -47,7 +47,7 @@ The object of the game is to bomb all six factories with your attack helicopter.
 
 {% include gallery id="gallery" caption="Some screen shots of the latest version." %}
 
-## You can play on your Chrome browser here: 
+## You can play on your browser here: 
 
 <iframe frameborder="0" src="https://itch.io/embed/1653468?border_width=3" width="556" height="171"><a href="https://antzgames.itch.io/raid3d">Raid on Bungeling Bay 3D by Antz</a></iframe>
 
